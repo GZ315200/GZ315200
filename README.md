@@ -3,6 +3,7 @@
 
 <p align="center">
   <a href="https://github.com/GZ315200"><img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/GZ315200?color=236ad3&style=for-the-badge&logo=github&label=Follow"/></a>
+   <a href="https://github.com/GZ315200"><img alt="followers" title="Stars on Github" src="https://img.shields.io/github/stars/GZ315200?style=for-the-badge"/></a>
 </p>
 
 ## 📖 About me
