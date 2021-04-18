@@ -10,7 +10,7 @@
 
 * 💻 I'm a full stack web developer
 * 🎨 I'm also a big data developer
-* 🪚 I'm sponsor of wasta connect project
+* 🪚 Kafka & Real-time system player 
 * 🎓 I'm a Computer Science student (graduating in June 2016)
 * 🌐 You can see some of my projects on [my repositories](https://github.com/GZ315200?tab=repositories)
 
