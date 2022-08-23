@@ -6,6 +6,10 @@
    <a href="https://github.com/GZ315200"><img alt="followers" title="Stars on Github" src="https://img.shields.io/github/stars/GZ315200?style=for-the-badge"/></a>
 </p>
 
+```
+With software and data having such a huge impact on the world, we engineers must remember that we have a responsibility to work for the kind of world we want: a world that respects people and respects humanity. I hope we can work together to achieve this goal.
+```
+
 ## 📖 About me
 
 * 💻 I'm a full stack web developer
