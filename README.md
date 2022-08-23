@@ -7,7 +7,9 @@
 </p>
 
 ```
-With software and data having such a huge impact on the world, we engineers must remember that we have a responsibility to work for the kind of world we want: a world that respects people and respects humanity. I hope we can work together to achieve this goal.
+With software and data having such a huge impact on the world, 
+we engineers must remember that we have a responsibility to work for the kind of world we want:
+a world that respects people and respects humanity. I hope we can work together to achieve this goal.
 ```
 
 ## 📖 About me
