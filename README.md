@@ -13,9 +13,8 @@ a world that respects people and respects humanity. I hope we can work together 
 ```
 
 ## 📖 About me
-
+* 🤖️ I'm a AI Engineer
 * 💻 I'm a full stack web developer
-* 🤖️ I'm a AI developer
 * 🎨 I'm also a big data developer
 * 🪚 Kafka & Real-time system player 
 * 🎓 I'm a Computer Science student (graduating in June 2016)
